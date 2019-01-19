@@ -1,0 +1,10 @@
+D:\Documents\School\CIT 365\James_Kennedy_MathQuiz\James_Kennedy_MathQuiz\bin\Debug\James_Kennedy_MathQuiz.exe.config
+D:\Documents\School\CIT 365\James_Kennedy_MathQuiz\James_Kennedy_MathQuiz\bin\Debug\James_Kennedy_MathQuiz.exe
+D:\Documents\School\CIT 365\James_Kennedy_MathQuiz\James_Kennedy_MathQuiz\bin\Debug\James_Kennedy_MathQuiz.pdb
+D:\Documents\School\CIT 365\James_Kennedy_MathQuiz\James_Kennedy_MathQuiz\obj\Debug\James_Kennedy_MathQuiz.csprojAssemblyReference.cache
+D:\Documents\School\CIT 365\James_Kennedy_MathQuiz\James_Kennedy_MathQuiz\obj\Debug\James_Kennedy_MathQuiz.Form1.resources
+D:\Documents\School\CIT 365\James_Kennedy_MathQuiz\James_Kennedy_MathQuiz\obj\Debug\James_Kennedy_MathQuiz.Properties.Resources.resources
+D:\Documents\School\CIT 365\James_Kennedy_MathQuiz\James_Kennedy_MathQuiz\obj\Debug\James_Kennedy_MathQuiz.csproj.GenerateResource.cache
+D:\Documents\School\CIT 365\James_Kennedy_MathQuiz\James_Kennedy_MathQuiz\obj\Debug\James_Kennedy_MathQuiz.csproj.CoreCompileInputs.cache
+D:\Documents\School\CIT 365\James_Kennedy_MathQuiz\James_Kennedy_MathQuiz\obj\Debug\James_Kennedy_MathQuiz.exe
+D:\Documents\School\CIT 365\James_Kennedy_MathQuiz\James_Kennedy_MathQuiz\obj\Debug\James_Kennedy_MathQuiz.pdb
