@@ -37,7 +37,13 @@ namespace James_Kennedy_MathQuiz
         public Form1()
         {
             InitializeComponent();
-           
+            // display current date
+            // variable containing today's date
+            DateTime today = DateTime.Now;
+
+            // output current date but not current time
+            dateLabel.Text = today.ToString("dd MMMM yyyy");
+
         }
 
         public void StartTheQuiz()
@@ -83,6 +89,8 @@ namespace James_Kennedy_MathQuiz
             timeLeft = 30;
             timeLabel.Text = "30 seconds";
             timer1.Start();
+
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
